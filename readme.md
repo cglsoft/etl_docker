@@ -38,3 +38,66 @@ diretamente com as ferramentas de visualização de dados como Tableaut, Jupyter
 
 Esta solução irá entregar Micro Serviços REST API com a utilização das tecnologias Python 
 com Flask, onde os parceiros poderão consumir os serviços conforme os planos contratados.
+
+## Implantação da solução
+
+### Modelagem Star schema para gravacao no Datalake
+
+
+
+
+[![N|Solid](starchema.png)](https://github.com/cglsoft)
+
+ 
+
+
+### Repositório GIT
+
+Acessar o diretório de projetos e baixar o repositório do [GIT GEOFUSION DESAFIO](https://github.com/cglsoft/).
+
+Passos para instalação:
+
+```sh
+$ git clone git clone https://github.com/cglsoft/gf_desafio.git
+$ cd gf_desafio
+```
+
+### Deploy DOCKER Container PYSPARK/JUPYTERNOTEBOOK
+
+Para rodar a solução o primeiro passo será criar executar o container em Docker/PYSPARK/JUPYTERNOTEBOOK
+
+Container Docker HUB o repositório do [HUB](https://hub.docker.com/).
+
+Estando no diretório gf_desafio executar os comandos abaixo:
+
+```sh
+$ docker run -it -p 8888:8888 -v $PWD:/home/jovyan/work --name spark jupyter/pyspark-notebook 
+```
+
+Apos o deploy do serviço será fornecido o TOKEN que deverá ser copiado conforme tela abaixo:
+
+[![N|Solid](tokenacesso.png)](http://127.0.0.1:8888)
+
+
+No navegador de sua preferência, acessar o endereço do Jupyter Notebook: [Jupyter Notebook](http://127.0.0.1:8888).
+
+```sh
+127.0.0.1:8888
+```
+
+####Importante acessar a pasta work/gf_desafio
+
+Nesta pasta temos o arquivo com o código ETL para carga das informações:
+
+Veja [GF Case.ipynb](GF Case.ipynb)
+
+
+
+
+
+
+
+
+
+
+
