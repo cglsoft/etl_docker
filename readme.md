@@ -85,7 +85,7 @@ No navegador de sua preferência, acessar o endereço do Jupyter Notebook: [Jupy
 127.0.0.1:8888
 ```
 
-####Importante acessar a pasta work/gf_desafio
+###Importante acessar a pasta work/gf_desafio
 
 Nesta pasta temos o arquivo com o código ETL para carga das informações:
 
