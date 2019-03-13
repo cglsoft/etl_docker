@@ -89,7 +89,13 @@ No navegador de sua preferência, acessar o endereço do Jupyter Notebook: [Jupy
 
 Nesta pasta temos o arquivo com o código ETL para carga das informações:
 
-Veja [GF Case.ipynb](GF Case.ipynb)
+Veja [ETL Carga Datalake](GF Case.ipynb)
+
+
+
+FIM
+
+
 
 
 
