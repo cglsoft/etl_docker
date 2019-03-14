@@ -1,0 +1,657 @@
+id|createdat|reportsuiteid|reportsuitename|server|data|hour|iddepartamento|nomedepartamento|channel|visits|uniquevisitors|pageviews|orders|ordersserialized|revenue|bouncerate|exits|productviewserialized|cartaddserialized|checkoutserialized|checkoutaddresslist|checkoutpayment|checkoutconfirmation|bounces|entries
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|10|1639|Papelaria|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|10|1639|Papelaria|Canal - Social DPA (WA)|1|1|1|0|0|0|0|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - SEM PLA (WA)|196|195|404|1|47|2|2|0|186|11|1|5|179|47|86|181
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - SEO (WA)|63|63|181|1|479|2|2|0|51|3|1|2|54|77|7|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - Comparador de Preço (WA)|47|47|121|1|206|1|1|0|43|3|1|2|42|46|19|41
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|::unspecified::|37|37|109|0|0|0|0|0|31|1|0|1|25|70|7|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - Social DPA (WA)|24|24|56|0|0|0|0|0|20|2|0|1|23|50|10|20
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - SEM Branding (WA)|23|23|97|1|266|2|2|0|17|4|1|3|11|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - Retargeting (WA)|21|21|36|0|0|0|0|0|20|0|0|0|19|70|14|20
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - Email Marketing (WA)|6|6|12|0|0|0|0|0|4|1|0|1|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - Social Patrocinado (WA)|2|2|9|0|0|1|1|0|2|1|0|1|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - SEM Search (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|827|Ferramentas|Canal - Afiliados (WA)|2|2|2|0|0|0|0|0|1|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - SEM PLA (WA)|52|52|70|0|0|1|1|0|47|0|0|0|45|65|31|47
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|::unspecified::|43|43|100|1|69|1|1|0|32|5|1|0|30|60|6|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - SEO (WA)|43|43|96|0|0|1|0|0|38|5|0|1|36|75|9|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Social DPA (WA)|22|22|31|0|0|0|0|0|19|0|0|0|15|42|8|19
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Display Top Mid(WA)|12|12|13|0|0|0|0|0|12|0|0|0|11|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - SEM Branding (WA)|11|11|23|0|0|0|0|0|8|0|0|0|4|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Retargeting (WA)|10|10|12|0|0|0|0|0|9|0|0|0|10|88|8|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Social Patrocinado (WA)|4|4|5|0|0|0|0|0|2|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Email Marketing (WA)|3|3|9|0|0|0|0|0|2|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Comparador de Preço (WA)|3|3|3|0|0|0|0|0|2|1|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Afiliados (WA)|1|1|2|0|0|0|0|0|1|0|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - SEM Search (WA)|1|1|2|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|3359|Decoração|Canal - Social Organico (WA)|1|1|1|0|0|0|0|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - SEM PLA (WA)|46|46|70|0|0|0|0|0|43|1|0|0|44|67|29|43
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - SEO (WA)|29|29|56|0|0|0|0|0|26|2|0|0|22|55|5|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|::unspecified::|19|19|37|0|0|0|0|0|16|0|0|0|18|70|7|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - SEM Branding (WA)|10|10|21|0|0|0|0|0|8|1|0|0|7|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - SEM Search (WA)|8|8|22|1|119|1|1|0|8|1|1|1|6|75|3|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - Comparador de Preço (WA)|7|7|11|0|0|0|0|0|7|0|0|0|7|50|3|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - Social DPA (WA)|5|5|9|0|0|0|0|0|5|0|0|0|5|40|2|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - Retargeting (WA)|5|5|5|0|0|0|0|0|5|0|0|0|5|100|5|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2547|Casa e Construção|Canal - Social Patrocinado (WA)|1|1|3|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - SEO (WA)|26|26|50|0|0|0|0|0|26|2|0|0|22|71|5|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - SEM PLA (WA)|20|20|40|0|0|0|0|0|20|1|0|1|19|75|15|20
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|::unspecified::|9|9|24|0|0|0|0|0|7|0|0|0|7|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - SEM Branding (WA)|5|5|16|0|0|0|0|0|4|1|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - Retargeting (WA)|3|3|11|0|0|0|0|0|2|0|0|0|1|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - Social DPA (WA)|3|3|7|0|0|0|0|0|2|0|0|0|2|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - Comparador de Preço (WA)|3|3|5|0|0|0|0|0|3|0|0|0|3|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - SEM Search (WA)|3|3|5|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2471|Instrumentos Musicais|Canal - Social Patrocinado (WA)|2|2|2|0|0|0|0|0|2|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - SEM PLA (WA)|41|40|69|0|0|1|0|0|41|3|0|2|36|52|21|40
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - SEO (WA)|8|8|13|0|0|0|0|0|8|0|0|0|5|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|::unspecified::|6|6|20|0|0|0|0|0|5|0|0|0|5|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - SEM Branding (WA)|4|4|11|0|0|0|0|0|2|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - Email Marketing (WA)|3|3|22|1|57|0|0|0|3|1|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - Social DPA (WA)|2|2|3|0|0|0|0|0|2|0|0|0|1|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - Afiliados (WA)|1|1|5|0|0|0|0|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2285|Produtos de Limpeza|Canal - Comparador de Preço (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - SEO (WA)|18|18|44|0|0|1|0|0|17|1|0|1|15|66|8|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - SEM PLA (WA)|6|6|17|0|0|1|1|0|5|1|0|1|5|20|1|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|::unspecified::|5|5|6|0|0|0|0|0|5|0|0|0|5|80|4|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - Comparador de Preço (WA)|3|3|3|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - SEM Branding (WA)|2|2|13|0|0|1|1|0|1|0|0|1|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - SEM Search (WA)|2|2|4|0|0|0|0|0|2|0|0|0|2|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - Retargeting (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - Afiliados (WA)|1|1|3|0|0|0|0|0|1|1|0|1|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|484|Livros|Canal - Social DPA (WA)|1|1|1|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|::unspecified::|10|10|33|1|110|1|0|0|1|0|1|0|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - SEO (WA)|9|9|21|0|0|0|0|0|4|0|0|2|3|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - Social DPA (WA)|8|8|11|0|0|1|0|0|4|0|0|1|4|75|3|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - SEM Branding (WA)|4|4|24|0|0|1|1|0|0|1|0|1|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - Email Marketing (WA)|4|4|16|0|0|0|1|0|0|1|0|2|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - Retargeting (WA)|3|3|19|0|0|1|1|0|1|0|0|1|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - SEM PLA (WA)|2|2|9|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - Display Top Mid(WA)|1|1|6|0|0|0|0|0|0|1|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2673|Alameda de Serviços|Canal - Social Patrocinado (WA)|1|1|1|0|0|0|0|0|0|0|0|1|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|Canal - SEM PLA (WA)|9|9|26|0|0|0|0|0|8|1|0|1|7|37|3|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|Canal - SEO (WA)|3|3|5|0|0|0|0|0|3|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|::unspecified::|3|3|5|0|0|0|0|0|1|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|Canal - SEM Branding (WA)|2|2|4|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|Canal - Email Marketing (WA)|2|2|1|0|0|0|0|0|1|1|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|Canal - Retargeting (WA)|1|1|2|0|0|0|0|0|1|0|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|318|Integracao Sige|Canal - Social DPA (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2042|Natal|Canal - SEM PLA (WA)|5|5|7|0|0|0|0|0|5|0|0|0|5|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2042|Natal|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|11|2339|Alimentos|Canal - SEM PLA (WA)|2|2|4|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||::unspecified::|9365|9271|23496|2|0|10|6|0|13|71|0|0|5755|27|2362|8744
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - SEO (WA)|8473|8435|24902|2|0|1|2|0|5|63|0|0|5373|16|1033|6102
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - SEM Branding (WA)|5827|5794|21561|4|39|7|4|1|8|46|2|1|3431|16|816|4998
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - SEM Search (WA)|1868|1859|5552|0|0|0|0|0|0|6|0|0|1316|32|540|1643
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Social Patrocinado (WA)|1804|1804|3029|0|0|0|0|0|2|4|0|0|1595|71|1254|1755
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - SEM PLA (WA)|1233|1228|3105|0|0|5|8|0|57|126|0|0|487|44|112|253
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Email Marketing (WA)|1212|1202|2683|0|0|0|0|0|0|8|0|0|904|47|519|1087
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Display Top Mid(WA)|629|627|834|0|0|0|0|0|0|0|0|0|596|81|504|622
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Social DPA (WA)|256|256|597|0|0|1|0|0|2|30|0|0|133|36|9|25
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Comparador de Preço (WA)|223|222|613|1|0|2|2|0|5|37|0|1|107|45|20|44
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Afiliados (WA)|191|191|564|0|0|0|0|0|0|7|0|0|117|36|50|138
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Retargeting (WA)|169|169|343|0|0|0|1|0|2|13|0|0|97|58|37|63
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Não Identificado|104|104|180|0|0|0|0|0|0|0|0|0|94|76|77|101
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Social Organico (WA)|49|49|146|0|0|0|0|0|0|2|0|0|34|36|15|41
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Email Marketing  Parceiros (WA)|20|20|65|0|0|0|0|0|0|0|0|0|12|15|3|19
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Direto (WA)|11|11|41|0|0|0|0|0|0|0|0|0|7|0|0|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Display- PERF (WA)|11|11|16|0|0|0|0|0|0|0|0|0|11|63|7|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Outros (WA)|7|7|33|0|0|0|0|0|0|1|0|0|5|20|1|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - Display Top Mid (WA)|3|3|4|0|0|0|0|0|0|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|::unspecified::||Canal - B2B (WA)|2|2|2|0|0|0|0|0|0|0|0|0|1|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - SEM PLA (WA)|719|715|1654|3|1674|8|8|0|663|38|3|21|598|48|313|647
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - SEO (WA)|525|523|1792|8|8167|9|10|0|439|40|8|21|331|59|58|98
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|::unspecified::|490|490|1595|15|17041|25|19|0|395|55|14|27|288|51|74|143
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - SEM Branding (WA)|457|456|1699|7|6205|15|14|0|364|50|7|24|224|60|15|25
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Social DPA (WA)|292|292|664|0|0|3|2|0|258|16|0|8|244|46|118|255
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - SEM Search (WA)|159|159|468|3|1757|4|3|0|135|10|3|4|88|57|23|40
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Comparador de Preço (WA)|146|146|324|2|1818|3|3|0|129|16|2|6|130|47|60|126
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Retargeting (WA)|146|145|292|0|0|0|0|0|129|3|0|2|132|63|82|129
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Email Marketing (WA)|64|64|169|0|0|3|3|0|54|9|0|4|52|56|17|30
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Social Patrocinado (WA)|27|27|76|0|0|0|0|0|21|2|0|0|13|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Afiliados (WA)|19|19|38|1|659|1|1|0|14|3|1|2|11|57|4|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Display Top Mid(WA)|6|6|15|0|0|0|0|0|5|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Não Identificado|5|5|7|0|0|0|0|0|5|0|0|0|4|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Social Organico (WA)|4|4|16|0|0|0|0|0|4|0|0|1|3|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|13|Eletrodomésticos|Canal - Email Marketing  Parceiros (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - SEM PLA (WA)|806|801|1796|1|479|4|4|0|735|29|1|12|718|52|385|730
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|::unspecified::|255|253|745|3|2149|6|5|0|213|22|3|8|159|53|52|97
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - SEO (WA)|188|187|622|1|1299|8|4|0|150|12|1|11|137|59|25|42
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - SEM Branding (WA)|155|154|621|3|5029|2|2|0|117|14|3|8|77|80|8|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Comparador de Preço (WA)|108|107|314|1|1949|3|3|0|96|9|1|5|94|55|53|96
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Social DPA (WA)|90|90|201|0|0|0|0|0|83|3|0|0|79|55|45|81
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Retargeting (WA)|55|55|118|1|12|1|1|0|47|2|1|2|44|53|25|47
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - SEM Search (WA)|54|53|147|0|0|0|0|0|50|1|0|1|33|42|6|14
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Afiliados (WA)|40|40|105|0|0|0|0|0|37|2|0|1|32|42|15|35
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Email Marketing (WA)|24|24|56|0|0|0|0|0|21|1|0|0|14|80|4|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Social Patrocinado (WA)|8|8|18|0|0|0|0|0|6|0|0|0|5|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Direto (WA)|3|3|10|0|0|0|0|0|3|0|0|0|3|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Display Top Mid(WA)|3|3|5|0|0|0|0|0|2|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|56|Informática|Canal - Email Marketing  Parceiros (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - SEM PLA (WA)|284|284|552|4|328|7|5|0|273|13|4|8|253|55|148|266
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - SEO (WA)|137|135|503|4|487|7|6|0|113|17|4|8|104|53|14|26
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|::unspecified::|92|92|318|2|161|2|2|0|73|19|2|7|56|50|14|28
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - SEM Branding (WA)|58|58|256|1|85|4|5|0|45|10|1|7|29|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - Social DPA (WA)|41|41|77|0|0|1|0|0|37|2|0|1|34|40|15|37
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - Comparador de Preço (WA)|37|37|76|0|0|0|0|0|33|1|0|0|35|45|15|33
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - SEM Search (WA)|25|25|53|0|0|0|0|0|22|0|0|0|21|90|10|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - Retargeting (WA)|24|24|62|0|0|1|1|0|20|4|0|1|22|50|10|20
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - Social Patrocinado (WA)|19|19|34|0|0|0|0|0|16|0|0|0|12|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - Email Marketing (WA)|18|17|33|0|0|0|0|0|12|0|0|0|14|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|102|Beleza e Saúde|Canal - Afiliados (WA)|9|9|26|1|84|1|1|0|6|2|1|2|5|60|3|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - SEM PLA (WA)|333|331|516|2|865|3|3|0|323|14|2|8|314|63|202|319
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - SEO (WA)|86|86|202|1|339|1|1|0|77|11|1|4|66|66|18|27
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - Social DPA (WA)|80|80|130|0|0|1|1|0|73|1|0|1|68|45|33|72
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - Comparador de Preço (WA)|76|76|134|0|0|1|1|0|72|9|0|3|71|52|38|72
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|::unspecified::|49|49|113|1|519|3|3|0|38|7|1|2|30|50|9|18
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - SEM Branding (WA)|30|30|103|1|1279|4|3|0|22|5|1|5|13|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - Retargeting (WA)|22|22|38|0|0|0|0|0|22|0|0|0|20|57|12|21
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - SEM Search (WA)|19|19|34|0|0|0|0|0|18|0|0|0|15|72|8|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - Email Marketing (WA)|4|4|10|0|0|0|0|0|4|0|0|0|3|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - Afiliados (WA)|3|3|6|0|0|1|1|0|3|1|0|1|1|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|836|Automotivo|Canal - Social Organico (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - SEM PLA (WA)|141|140|362|1|649|1|1|0|132|13|1|4|116|45|60|132
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - SEO (WA)|86|86|265|0|0|1|0|0|71|4|0|3|57|62|17|27
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|::unspecified::|78|78|212|2|690|2|2|0|62|9|2|2|53|37|6|16
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Comparador de Preço (WA)|47|46|88|0|0|0|0|0|45|3|0|0|43|59|26|44
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - SEM Branding (WA)|39|39|221|0|0|1|1|0|28|4|0|1|23|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Retargeting (WA)|31|31|63|0|0|0|0|0|28|1|0|0|28|57|16|28
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Social DPA (WA)|28|28|64|0|0|1|1|0|25|4|0|2|23|56|14|25
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Email Marketing (WA)|23|23|43|0|0|1|0|0|20|0|0|1|14|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - SEM Search (WA)|6|6|19|0|0|0|0|0|5|0|0|0|5|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Social Patrocinado (WA)|3|3|10|0|0|0|0|0|3|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Afiliados (WA)|3|3|8|0|0|0|0|0|3|0|0|0|3|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Social Organico (WA)|1|1|3|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3279|Áudio|Canal - Email Marketing  Parceiros (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|::unspecified::|64|64|402|6|2036|6|6|0|53|16|6|6|39|68|11|16
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - SEO (WA)|63|63|242|0|0|1|1|0|52|6|0|3|47|40|6|15
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - SEM PLA (WA)|48|48|102|0|0|2|0|0|42|1|0|3|44|50|21|42
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - SEM Branding (WA)|40|39|144|0|0|0|0|0|32|5|0|4|26|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Social Patrocinado (WA)|35|35|54|1|159|1|1|0|30|0|1|0|25|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Social DPA (WA)|19|19|50|0|0|0|0|0|17|0|0|0|17|58|10|17
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Comparador de Preço (WA)|19|19|45|0|0|1|1|0|17|3|0|1|16|35|6|17
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - SEM Search (WA)|9|9|20|0|0|1|0|0|8|0|0|1|5|25|1|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Retargeting (WA)|8|8|27|0|0|0|0|0|7|0|0|1|5|28|2|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Email Marketing (WA)|3|3|7|0|0|0|0|0|3|1|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Display Top Mid(WA)|1|1|3|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2809|Ar e Ventilação|Canal - Afiliados (WA)|1|1|3|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - SEO (WA)|57|57|114|1|399|1|1|0|48|5|1|2|38|73|11|15
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - SEM PLA (WA)|37|37|59|0|0|0|0|0|34|1|0|1|33|55|19|34
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|::unspecified::|30|30|47|0|0|0|0|0|26|1|0|0|27|66|12|18
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - Social DPA (WA)|21|21|35|0|0|0|0|0|14|0|0|0|19|64|9|14
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - SEM Branding (WA)|17|17|57|0|0|1|0|0|6|3|0|1|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - Display Top Mid(WA)|10|10|10|0|0|0|0|0|10|1|0|0|7|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - Email Marketing (WA)|7|7|9|0|0|0|0|0|5|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - Retargeting (WA)|6|6|11|0|0|0|0|0|5|1|0|0|6|60|3|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - Social Patrocinado (WA)|4|4|5|0|0|0|0|0|4|1|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|3359|Decoração|Canal - Comparador de Preço (WA)|2|2|2|0|0|0|0|0|2|0|0|0|1|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - SEM PLA (WA)|65|65|88|0|0|0|0|0|64|2|0|1|64|71|45|63
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - Social Patrocinado (WA)|39|39|41|0|0|0|0|0|36|1|0|0|27|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - Comparador de Preço (WA)|20|20|26|0|0|0|0|0|20|0|0|0|19|65|13|20
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - SEO (WA)|16|16|32|0|0|0|0|0|11|0|0|1|10|75|3|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|::unspecified::|14|14|16|0|0|0|0|0|10|3|0|0|10|100|4|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - Social DPA (WA)|8|8|14|0|0|0|0|0|7|0|0|0|8|28|2|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - Email Marketing (WA)|5|5|13|0|0|0|0|0|5|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - Retargeting (WA)|5|5|5|0|0|0|0|0|5|0|0|0|5|100|5|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - Afiliados (WA)|3|3|4|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - SEM Branding (WA)|3|3|3|0|0|0|0|0|3|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1886|Perfumaria|Canal - SEM Search (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - SEM PLA (WA)|70|70|172|0|0|1|0|0|65|4|0|2|64|55|35|63
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - SEO (WA)|15|14|56|0|0|1|1|0|12|1|0|1|12|50|3|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|::unspecified::|13|13|16|0|0|0|0|0|11|1|0|0|10|100|7|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|Canal - SEO (WA)|14|14|30|0|0|1|0|0|5|0|0|1|6|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|::unspecified::|8|8|20|0|0|0|0|0|1|0|0|2|2|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|Canal - SEM Branding (WA)|5|5|26|0|0|0|0|0|0|0|0|1|3|null|1|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|Canal - Email Marketing (WA)|4|4|7|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|Canal - Social DPA (WA)|4|4|4|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|Canal - SEM PLA (WA)|3|3|14|0|0|1|0|0|0|2|0|1|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2673|Alameda de Serviços|Canal - Retargeting (WA)|3|3|10|0|0|0|0|0|1|0|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|318|Integracao Sige|::unspecified::|7|7|12|0|0|0|0|0|3|0|0|0|3|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|318|Integracao Sige|Canal - SEO (WA)|6|6|13|0|0|0|0|0|3|0|0|0|5|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|318|Integracao Sige|Canal - Email Marketing (WA)|4|4|4|0|0|0|0|0|2|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|318|Integracao Sige|Canal - Social DPA (WA)|3|3|4|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|318|Integracao Sige|Canal - SEM PLA (WA)|2|2|4|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|318|Integracao Sige|Canal - Afiliados (WA)|1|1|5|0|0|0|0|0|1|1|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2042|Natal|Canal - SEM PLA (WA)|5|5|8|0|0|0|0|0|3|1|0|0|4|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2042|Natal|Canal - SEO (WA)|2|2|2|0|0|0|0|0|2|0|0|0|1|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2042|Natal|::unspecified::|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2042|Natal|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2339|Alimentos|Canal - SEM PLA (WA)|2|2|1|0|0|0|0|0|1|1|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - SEM PLA (WA)|2357|2357|4216|6|5764|20|15|0|2156|72|6|43|2197|67|1419|2114
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|::unspecified::|478|478|1408|11|9732|16|14|0|380|44|11|18|348|60|81|133
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - SEO (WA)|471|471|1542|4|3716|19|13|0|353|42|4|31|348|56|54|96
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Comparador de Preço (WA)|337|337|565|0|0|3|3|0|298|6|0|3|314|68|200|293
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - SEM Branding (WA)|320|320|1134|6|5304|16|12|0|229|44|6|23|196|78|11|14
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Social DPA (WA)|218|218|412|0|0|2|1|0|201|4|0|5|195|58|116|200
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - SEM Search (WA)|109|109|229|1|1423|2|2|0|84|5|1|1|76|79|23|29
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Retargeting (WA)|92|92|151|0|0|1|1|0|82|6|0|2|91|72|59|81
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Email Marketing (WA)|57|57|160|0|0|5|5|0|50|8|0|6|40|66|8|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Social Patrocinado (WA)|15|15|26|0|0|0|0|0|12|0|0|0|10|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Afiliados (WA)|11|11|18|0|0|0|0|0|8|1|0|0|8|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Social Organico (WA)|6|6|7|0|0|0|0|0|6|0|0|0|4|100|3|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|38|Telefones e Celulares|Canal - Direto (WA)|2|2|8|0|0|1|1|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - SEM PLA (WA)|302|302|675|0|0|4|4|0|271|27|0|14|276|52|141|267
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - SEO (WA)|173|173|525|3|3977|6|5|0|139|15|3|7|114|55|20|36
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|::unspecified::|152|152|443|3|1978|9|7|0|116|21|3|13|106|63|35|55
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - SEM Branding (WA)|104|104|411|3|5597|5|5|0|77|14|3|12|58|66|6|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Comparador de Preço (WA)|69|69|139|0|0|1|1|0|64|2|0|1|63|71|46|64
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Email Marketing (WA)|59|59|126|0|0|1|1|0|50|5|0|2|41|55|19|34
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Social DPA (WA)|42|42|75|1|1066|0|1|0|31|2|1|1|37|64|20|31
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Retargeting (WA)|32|32|53|0|0|0|0|0|29|2|0|1|27|65|17|26
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - SEM Search (WA)|26|26|62|0|0|1|1|0|23|1|0|2|14|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Afiliados (WA)|23|23|72|1|1469|3|2|0|17|4|1|3|19|76|13|17
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Social Patrocinado (WA)|5|5|12|0|0|0|0|0|4|1|0|1|5|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Display Top Mid(WA)|2|2|8|0|0|0|0|0|2|1|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Social Organico (WA)|1|1|5|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1|TVs e Acessórios|Canal - Email Marketing  Parceiros (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - SEM PLA (WA)|228|228|463|1|128|4|4|0|212|10|1|9|210|58|122|209
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - SEO (WA)|44|44|104|0|0|0|0|0|37|3|0|1|37|70|12|17
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|::unspecified::|26|26|67|1|69|2|2|0|20|2|1|2|15|50|5|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - SEM Branding (WA)|19|19|84|1|379|1|1|0|9|8|1|2|10|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - Retargeting (WA)|19|19|44|0|0|0|0|0|17|0|0|0|18|75|12|16
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - Comparador de Preço (WA)|16|16|48|0|0|0|0|0|16|3|0|2|15|50|8|16
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - Social DPA (WA)|15|15|30|0|0|0|0|0|13|1|0|0|14|61|8|13
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - SEM Search (WA)|10|10|25|0|0|0|0|0|7|1|0|0|8|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - Email Marketing (WA)|3|3|11|0|0|1|0|0|1|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - Afiliados (WA)|3|3|3|0|0|0|0|0|3|0|0|0|3|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|977|Brinquedos|Canal - Social Patrocinado (WA)|1|1|11|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - SEM PLA (WA)|164|164|277|0|0|0|0|0|155|6|0|2|156|63|98|155
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - SEO (WA)|41|41|116|1|109|1|2|0|38|4|1|1|33|81|9|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|::unspecified::|27|27|58|0|0|0|0|0|22|2|0|1|19|66|6|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - Social DPA (WA)|21|21|43|0|0|0|0|0|21|1|0|1|20|42|8|19
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - Comparador de Preço (WA)|21|21|33|0|0|0|0|0|18|2|0|0|20|43|7|16
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - SEM Search (WA)|11|11|31|0|0|0|0|0|10|1|0|1|11|50|4|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - SEM Branding (WA)|11|11|28|0|0|0|0|0|8|2|0|0|6|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - Retargeting (WA)|10|10|14|0|0|0|0|0|10|0|0|0|10|60|6|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|836|Automotivo|Canal - Email Marketing (WA)|4|4|6|0|0|0|0|0|4|0|0|0|2|25|1|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - SEM PLA (WA)|43|43|95|0|0|0|0|0|41|4|0|1|39|60|25|41
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - SEO (WA)|7|7|8|0|0|0|0|0|7|0|0|0|6|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - SEM Branding (WA)|5|5|20|0|0|0|0|0|2|1|0|1|4|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - SEM Search (WA)|4|4|6|0|0|0|0|0|4|0|0|0|3|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - Comparador de Preço (WA)|2|2|9|0|0|0|0|0|1|0|0|0|2|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - Email Marketing (WA)|2|2|8|1|139|1|1|0|0|0|1|1|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|Canal - Retargeting (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|29|Cine e Foto|::unspecified::|1|1|2|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - SEO (WA)|13|13|22|0|0|0|0|0|13|1|0|0|13|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - SEM PLA (WA)|9|9|16|0|0|0|0|0|9|0|0|0|8|33|3|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - Social DPA (WA)|5|5|14|0|0|0|0|0|4|0|0|0|3|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|::unspecified::|5|5|6|0|0|0|0|0|5|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - SEM Branding (WA)|4|4|9|0|0|0|0|0|3|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - Comparador de Preço (WA)|3|3|5|0|0|0|0|0|3|0|0|0|3|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - Retargeting (WA)|2|2|3|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2471|Instrumentos Musicais|Canal - Social Patrocinado (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - SEO (WA)|13|13|14|0|0|0|0|0|7|1|0|0|8|100|3|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|::unspecified::|6|6|12|0|0|0|0|0|3|0|0|0|3|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - Social DPA (WA)|5|5|7|0|0|0|0|0|3|1|0|0|5|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - SEM PLA (WA)|5|5|6|0|0|0|0|0|5|0|0|0|4|60|3|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - Email Marketing (WA)|1|1|8|1|56|1|1|0|1|1|1|1|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - SEM Branding (WA)|1|1|3|0|0|0|0|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - Afiliados (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1732|Cama. Mesa e Banho|Canal - Comparador de Preço (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2294|Pet Shop|Canal - SEM PLA (WA)|17|17|26|0|0|0|0|0|17|2|0|0|17|47|8|17
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2294|Pet Shop|Canal - SEO (WA)|4|4|9|0|0|0|0|0|3|0|0|0|4|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2294|Pet Shop|Canal - Social DPA (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2294|Pet Shop|Canal - SEM Search (WA)|1|1|2|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|484|Livros|Canal - SEO (WA)|10|10|12|0|0|0|0|0|8|0|0|0|10|75|3|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|484|Livros|::unspecified::|6|6|9|0|0|0|0|0|5|0|0|0|5|75|3|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|484|Livros|Canal - Comparador de Preço (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|484|Livros|Canal - SEM PLA (WA)|2|2|2|0|0|0|0|0|2|0|0|0|1|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|484|Livros|Canal - SEM Branding (WA)|1|1|3|0|0|1|1|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|484|Livros|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1734|Moda|Canal - SEM PLA (WA)|8|8|17|0|0|0|0|0|8|1|0|0|8|50|4|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1734|Moda|::unspecified::|3|3|3|0|0|0|0|0|2|0|0|0|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1734|Moda|Canal - SEO (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1734|Moda|Canal - Afiliados (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1734|Moda|Canal - Social DPA (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|Canal - SEM PLA (WA)|8|8|9|0|0|0|0|0|8|0|0|0|8|87|7|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|Canal - SEO (WA)|5|5|8|0|0|0|0|0|4|1|0|0|3|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|::unspecified::|3|3|19|0|0|1|0|0|2|1|0|1|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|Canal - Comparador de Preço (WA)|2|2|3|0|0|0|0|0|1|0|0|0|2|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|Canal - SEM Search (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|Canal - SEM Branding (WA)|1|1|2|0|0|0|0|0|1|1|0|1|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|1639|Papelaria|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|Canal - SEO (WA)|3|3|13|0|0|0|0|0|1|1|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|Canal - SEM PLA (WA)|3|3|2|0|0|0|0|0|0|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|Canal - Email Marketing (WA)|2|2|2|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|::unspecified::|1|1|2|0|0|0|0|0|1|1|0|1|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|Canal - Comparador de Preço (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|318|Integracao Sige|Canal - SEM Branding (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2599|Artesanato|Canal - SEM PLA (WA)|3|3|6|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2599|Artesanato|Canal - SEO (WA)|2|2|3|0|0|0|0|0|1|0|0|0|2|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2599|Artesanato|::unspecified::|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|10768672||Canal - SEM PLA (WA)|3|3|3|0|0|0|0|0|3|0|0|0|3|100|3|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|10768672||Canal - SEO (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|17|2168||Canal - SEO (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|138
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|28
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|Canal - SEM Branding (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|38|Telefones e Celulares|Canal - Retargeting (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|33
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - Email Marketing (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - Retargeting (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|13|Eletrodomésticos|Canal - SEM Branding (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1|TVs e Acessórios|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|15
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1|TVs e Acessórios|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1|TVs e Acessórios|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1|TVs e Acessórios|Canal - Email Marketing (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1|TVs e Acessórios|Canal - Retargeting (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1|TVs e Acessórios|Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|13
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|Canal - SEM Search (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|56|Informática|Canal - Retargeting (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|371|Utilidades Domésticas|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|15
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|371|Utilidades Domésticas|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|371|Utilidades Domésticas|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|371|Utilidades Domésticas|Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|371|Utilidades Domésticas|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|977|Brinquedos|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|977|Brinquedos|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|102|Beleza e Saúde|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|102|Beleza e Saúde|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|102|Beleza e Saúde|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|102|Beleza e Saúde|Canal - Retargeting (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|102|Beleza e Saúde|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|983|Bebês|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|983|Bebês|Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|983|Bebês|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|983|Bebês|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|983|Bebês|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|836|Automotivo|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|836|Automotivo|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|418|Esporte e Lazer|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|418|Esporte e Lazer|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|418|Esporte e Lazer|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|3279|Áudio|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|3279|Áudio|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|3279|Áudio|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|827|Ferramentas|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|7
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2809|Ar e Ventilação|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2809|Ar e Ventilação|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2809|Ar e Ventilação|Canal - Comparador de Preço (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2809|Ar e Ventilação|Canal - SEM Branding (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|336|Games|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|336|Games|Canal - Retargeting (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|336|Games|::unspecified::|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|3359|Decoração|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|3359|Decoração|Canal - Afiliados (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|1886|Perfumaria|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|29|Cine e Foto|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2471|Instrumentos Musicais|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2285|Produtos de Limpeza|Canal - SEM PLA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|2285|Produtos de Limpeza|Canal - Social DPA (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|23|10768672||Canal - SEO (WA)|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - SEM Search (WA)|7|7|12|0|0|0|0|0|6|0|0|0|6|83|5|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - Comparador de Preço (WA)|4|4|14|1|1599|1|1|0|3|1|1|0|4|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - SEM Branding (WA)|4|4|13|0|0|1|1|0|2|0|0|1|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - Email Marketing (WA)|3|3|7|0|0|0|0|0|2|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - Social DPA (WA)|2|2|4|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - Retargeting (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|29|Cine e Foto|Canal - Email Marketing  Parceiros (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|Canal - SEO (WA)|24|24|62|0|0|1|1|0|19|1|0|1|20|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|Canal - SEM PLA (WA)|17|17|22|0|0|0|0|0|16|0|0|0|17|75|12|16
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|::unspecified::|12|12|35|0|0|0|0|0|12|1|0|0|7|20|1|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|Canal - Comparador de Preço (WA)|10|10|22|0|0|0|0|0|10|0|0|0|10|60|6|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|Canal - Retargeting (WA)|7|7|41|0|0|0|0|0|5|0|0|0|4|60|3|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|Canal - SEM Branding (WA)|7|7|23|0|0|0|0|0|6|1|0|0|4|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2471|Instrumentos Musicais|Canal - Social DPA (WA)|4|4|5|0|0|0|0|0|4|0|0|0|4|75|3|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - SEO (WA)|20|20|57|0|0|0|0|0|15|3|0|1|13|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - Social DPA (WA)|12|12|14|0|0|0|0|0|10|0|0|0|10|80|8|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|::unspecified::|8|6|16|1|34|2|1|0|2|4|1|1|5|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - Retargeting (WA)|6|6|10|0|0|0|0|0|5|0|0|0|6|80|4|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - SEM PLA (WA)|6|6|8|0|0|0|0|0|5|2|0|0|6|60|3|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - SEM Branding (WA)|4|4|14|0|0|0|0|0|2|1|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - Social Patrocinado (WA)|4|4|13|0|0|0|0|0|4|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - Comparador de Preço (WA)|2|2|6|0|0|0|0|0|2|0|0|0|1|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1732|Cama. Mesa e Banho|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2294|Pet Shop|Canal - SEM PLA (WA)|42|42|60|0|0|0|0|0|41|1|0|1|40|58|24|41
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2294|Pet Shop|Canal - SEO (WA)|3|2|4|0|0|0|0|0|3|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2294|Pet Shop|Canal - SEM Branding (WA)|2|2|8|0|0|0|0|0|2|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2294|Pet Shop|Canal - Social DPA (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|2294|Pet Shop|::unspecified::|1|1|3|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|Canal - SEO (WA)|14|14|20|0|0|0|0|0|14|0|0|0|12|70|7|10
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|::unspecified::|5|5|7|0|0|0|0|0|5|0|0|0|4|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|Canal - SEM PLA (WA)|3|3|6|0|0|0|0|0|3|1|0|0|2|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|Canal - SEM Search (WA)|3|3|4|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|Canal - Retargeting (WA)|3|3|3|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|Canal - Comparador de Preço (WA)|2|2|4|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|484|Livros|Canal - SEM Branding (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1734|Moda|Canal - SEM PLA (WA)|29|29|61|0|0|0|0|0|28|1|0|1|26|39|11|28
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1734|Moda|Canal - SEO (WA)|9|9|16|0|0|0|0|0|9|0|0|0|9|62|5|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1734|Moda|::unspecified::|8|8|12|0|0|0|0|0|7|0|0|0|7|83|5|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1734|Moda|Canal - Social DPA (WA)|5|5|8|0|0|0|0|0|5|0|0|0|5|80|4|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1734|Moda|Canal - SEM Branding (WA)|1|1|5|0|0|0|0|0|0|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|12|1734|Moda|Canal - Comparador de Preço (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - SEO (WA)|42|42|120|0|0|0|0|0|34|2|0|0|31|83|10|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - SEM PLA (WA)|37|36|92|0|0|1|1|0|34|1|0|2|29|45|15|33
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|::unspecified::|32|32|108|0|0|0|0|0|23|4|0|2|21|87|7|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - SEM Branding (WA)|29|29|94|1|499|1|1|0|22|3|1|2|15|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - Comparador de Preço (WA)|19|19|38|0|0|0|0|0|18|0|0|0|18|50|9|18
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - SEM Search (WA)|13|13|30|0|0|0|0|0|11|0|0|0|9|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - Retargeting (WA)|11|11|22|0|0|0|0|0|11|0|0|0|9|36|4|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - Email Marketing (WA)|7|7|32|0|0|0|0|0|4|2|0|1|2|0|0|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - Social DPA (WA)|4|4|7|0|0|0|0|0|2|0|0|0|3|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - Social Patrocinado (WA)|3|3|3|0|0|0|0|0|2|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2031|Tablets|Canal - Social Organico (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - SEM PLA (WA)|52|52|87|0|0|0|0|0|50|5|0|0|47|65|32|49
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - SEO (WA)|43|43|103|0|0|1|0|0|40|2|0|1|29|46|6|13
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|::unspecified::|21|20|54|0|0|1|1|0|17|3|0|2|17|41|5|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - SEM Search (WA)|10|10|13|0|0|0|0|0|9|0|0|0|9|66|6|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - Social DPA (WA)|8|8|16|0|0|0|0|0|6|0|0|0|5|16|1|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - SEM Branding (WA)|7|7|27|1|47|0|0|0|4|0|1|0|5|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - Retargeting (WA)|7|7|11|0|0|0|0|0|4|1|0|1|7|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - Comparador de Preço (WA)|5|5|10|0|0|0|0|0|5|0|0|0|4|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - Email Marketing  Parceiros (WA)|1|1|10|0|0|0|0|0|1|0|0|0|0|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2547|Casa e Construção|Canal - Social Organico (WA)|1|1|5|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|Canal - SEO (WA)|48|48|90|0|0|0|0|0|43|0|0|0|35|81|9|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|Canal - SEM PLA (WA)|46|45|75|0|0|0|0|0|45|2|0|1|45|52|23|44
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|::unspecified::|30|30|61|0|0|1|0|0|23|3|0|2|19|87|7|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|Canal - Retargeting (WA)|12|12|16|0|0|0|0|0|11|0|0|0|12|72|8|11
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|Canal - SEM Branding (WA)|7|7|15|0|0|0|0|0|4|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|Canal - Social DPA (WA)|4|4|6|0|0|0|0|0|4|0|0|0|3|50|2|4
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1017|Linha Industrial|Canal - SEM Search (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - SEO (WA)|29|29|108|0|0|0|0|0|26|2|0|2|20|75|6|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|::unspecified::|13|13|31|0|0|0|0|0|12|2|0|0|11|75|6|8
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - SEM Branding (WA)|12|12|41|0|0|0|0|0|7|1|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - Retargeting (WA)|11|11|29|0|0|1|0|0|9|0|0|1|8|55|5|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - SEM PLA (WA)|10|10|21|0|0|0|0|0|10|0|0|0|10|77|7|9
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - Social DPA (WA)|7|7|11|0|0|0|0|0|5|0|0|0|6|66|4|6
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - SEM Search (WA)|3|3|5|0|0|0|0|0|3|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - Comparador de Preço (WA)|3|3|3|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - Social Patrocinado (WA)|2|2|3|0|0|0|0|0|1|0|0|0|2|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1733|Relógios|Canal - Email Marketing (WA)|2|2|2|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2285|Produtos de Limpeza|Canal - SEM PLA (WA)|36|36|69|1|57|1|1|0|34|4|1|2|33|48|16|33
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2285|Produtos de Limpeza|Canal - SEO (WA)|22|22|69|2|134|4|2|0|15|6|2|3|14|80|4|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2285|Produtos de Limpeza|::unspecified::|9|8|28|0|0|1|0|0|8|2|0|1|8|60|3|5
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2285|Produtos de Limpeza|Canal - SEM Branding (WA)|4|4|6|0|0|0|0|0|3|1|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2285|Produtos de Limpeza|Canal - Social DPA (WA)|2|2|3|0|0|0|0|0|2|0|0|0|2|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2285|Produtos de Limpeza|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2596|Bebidas|Canal - SEM PLA (WA)|45|44|68|0|0|0|0|0|45|0|0|0|43|60|27|45
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2596|Bebidas|Canal - Social DPA (WA)|2|2|2|0|0|0|0|0|2|0|0|0|1|50|1|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2596|Bebidas|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2596|Bebidas|::unspecified::|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|2596|Bebidas|Canal - SEO (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - SEM PLA (WA)|14|14|25|1|129|1|1|0|13|2|1|1|10|66|8|12
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - SEM Branding (WA)|4|4|20|0|0|0|0|0|2|0|0|0|3|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - SEO (WA)|4|4|9|0|0|0|0|0|4|0|0|0|3|33|1|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|::unspecified::|3|3|13|0|0|0|0|0|3|0|0|1|2|0|0|2
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - Comparador de Preço (WA)|3|3|6|0|0|0|0|0|3|0|0|0|3|0|0|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - Social DPA (WA)|3|3|3|0|0|0|0|0|3|0|0|0|3|66|2|3
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - Email Marketing (WA)|2|2|6|0|0|0|0|0|2|0|0|0|1|null|0|0
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - Afiliados (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1246781894|2018-09-13 18:08:29.0|np-casasbahia-mobile|CM - Casas Bahia Mobile||2018-09-13|15|1813|Malas e Mochilas|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Retargeting (WA)|31|31|80|0|0|0|0|0|0|0|0|0|16|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Social Patrocinado (WA)|29|29|57|0|0|0|0|0|0|0|0|0|26|77|21|27
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Social Organico (WA)|26|26|98|0|0|0|0|0|0|0|0|0|23|50|12|24
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Social DPA (WA)|21|21|61|0|0|0|0|0|0|0|0|0|8|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Não Identificado|19|19|86|0|0|0|0|0|1|0|0|0|12|23|3|13
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Display Top Mid(WA)|12|12|14|0|0|0|0|0|0|0|0|0|12|91|11|12
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Outros (WA)|2|2|18|0|0|0|0|0|0|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Direto (WA)|2|2|7|0|0|0|0|0|0|0|0|0|1|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|::unspecified::||Canal - Email Marketing  Parceiros (WA)|2|2|2|0|0|0|0|0|0|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - SEM PLA (WA)|59|59|109|2|186|3|2|0|52|1|2|3|52|58|30|51
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|::unspecified::|19|19|34|0|0|0|0|0|13|3|0|0|10|30|3|10
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - SEO (WA)|17|17|38|0|0|1|1|0|12|2|0|1|12|75|6|8
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - SEM Branding (WA)|3|3|9|0|0|0|0|0|2|1|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - Comparador de Preço (WA)|3|3|3|0|0|0|0|0|2|0|0|0|3|100|2|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - Afiliados (WA)|2|2|11|1|284|1|1|0|1|1|1|1|1|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - Retargeting (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|50|1|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|977|Brinquedos|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - SEM PLA (WA)|40|40|61|1|29|2|1|0|33|3|1|1|32|63|21|33
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - SEO (WA)|22|22|60|0|0|0|0|0|20|2|0|0|13|22|2|9
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - Comparador de Preço (WA)|16|16|27|0|0|0|0|0|14|3|0|0|12|61|8|13
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - Afiliados (WA)|14|14|32|0|0|1|1|0|13|3|0|2|10|63|7|11
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|::unspecified::|13|13|27|0|0|0|0|0|9|2|0|0|4|14|1|7
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - SEM Search (WA)|7|7|8|0|0|0|0|0|6|0|0|0|6|50|3|6
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - Social DPA (WA)|5|5|10|0|0|0|0|0|5|0|0|0|4|40|2|5
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - SEM Branding (WA)|3|3|6|0|0|0|0|0|3|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - Email Marketing (WA)|2|2|8|0|0|0|0|0|1|1|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|836|Automotivo|Canal - Email Marketing  Parceiros (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|827|Ferramentas|Canal - SEM PLA (WA)|64|64|122|2|366|3|2|0|59|7|2|3|56|51|31|60
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|827|Ferramentas|Canal - SEO (WA)|19|19|39|0|0|0|0|0|14|0|0|0|8|66|2|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - SEM PLA (WA)|532|531|1012|7|6849|10|9|0|462|50|7|12|412|53|239|444
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|::unspecified::|241|238|770|11|14584|17|14|0|176|50|10|26|119|36|24|65
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - SEO (WA)|236|235|919|28|51475|30|29|0|148|39|25|30|120|57|24|42
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - Comparador de Preço (WA)|157|155|268|1|899|2|2|0|127|14|1|4|118|43|52|120
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - SEM Branding (WA)|92|92|334|9|12274|8|9|0|66|21|9|15|34|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - Retargeting (WA)|77|77|142|0|0|1|1|0|66|5|0|1|64|48|31|64
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - Social DPA (WA)|46|46|86|0|0|1|0|0|42|3|0|2|37|61|26|42
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - SEM Search (WA)|31|30|52|1|989|0|0|0|25|2|1|1|20|80|8|10
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - Afiliados (WA)|30|30|71|1|899|1|1|0|17|4|1|1|18|50|2|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - Email Marketing (WA)|21|21|47|1|1298|2|1|0|15|3|1|3|14|75|3|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - B2B (WA)|5|5|13|1|890|1|1|0|1|2|1|1|2|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Não Identificado|4|4|7|0|0|1|0|0|2|0|0|0|3|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|38|Telefones e Celulares|Canal - Social Organico (WA)|2|2|8|0|0|0|0|0|2|1|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - SEO (WA)|267|265|935|4|1191|7|5|0|185|15|4|10|123|40|25|61
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|::unspecified::|201|200|734|9|8713|7|8|0|118|23|9|8|67|25|14|55
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - SEM PLA (WA)|201|200|443|2|539|1|1|0|157|8|1|2|142|34|51|148
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - SEM Branding (WA)|90|90|499|1|1421|4|1|0|57|6|1|3|31|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - Social DPA (WA)|26|26|66|0|0|1|1|0|22|2|0|0|17|36|8|22
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - Retargeting (WA)|22|22|34|0|0|0|0|0|13|3|0|0|19|46|6|13
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - Afiliados (WA)|18|18|84|1|1099|1|1|0|8|2|1|1|5|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - Comparador de Preço (WA)|12|12|19|0|0|0|0|0|9|0|0|0|7|33|3|9
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - Email Marketing (WA)|10|10|62|0|0|0|0|0|7|1|0|0|3|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - SEM Search (WA)|9|9|21|0|0|0|0|0|8|0|0|0|3|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Não Identificado|2|2|4|0|0|0|0|0|0|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|93|Móveis|Canal - B2B (WA)|1|1|3|0|0|0|0|0|1|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - SEO (WA)|112|112|347|7|6361|6|6|0|73|15|7|7|49|68|13|19
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|::unspecified::|112|112|327|4|7036|4|4|0|66|7|4|6|45|34|9|26
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - SEM PLA (WA)|109|109|272|3|2756|3|4|0|77|11|3|2|65|37|28|74
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - SEM Branding (WA)|45|45|253|4|3926|5|6|0|25|9|4|4|12|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Comparador de Preço (WA)|26|26|44|0|0|0|0|0|21|0|0|0|15|31|6|19
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - SEM Search (WA)|18|18|53|1|2999|1|2|0|14|1|1|1|9|28|2|7
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Retargeting (WA)|13|13|19|0|0|0|0|0|9|1|0|0|6|22|2|9
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Email Marketing (WA)|9|9|46|2|1265|1|2|0|7|2|2|1|2|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Afiliados (WA)|8|8|27|1|1279|1|1|0|5|0|1|0|4|33|1|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Social DPA (WA)|7|7|9|0|0|0|0|0|4|1|0|0|5|75|3|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Social Organico (WA)|2|2|8|0|0|0|0|0|2|1|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - B2B (WA)|2|2|3|0|0|0|0|0|1|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|13|Eletrodomésticos|Canal - Social Patrocinado (WA)|2|2|2|0|0|0|0|0|1|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - SEM PLA (WA)|138|138|383|4|866|8|6|0|110|14|4|7|101|44|47|105
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|::unspecified::|115|113|373|9|2749|7|7|0|70|11|7|10|54|55|27|49
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - SEO (WA)|63|62|252|2|449|4|2|0|40|12|1|5|35|46|7|15
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - SEM Branding (WA)|21|21|103|0|0|1|0|0|11|4|0|1|12|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Comparador de Preço (WA)|20|20|46|1|161|2|1|0|17|4|1|1|13|40|6|15
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Retargeting (WA)|11|11|28|0|0|1|1|0|9|3|0|1|9|44|4|9
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Afiliados (WA)|9|9|62|3|373|2|2|0|5|1|1|2|5|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Email Marketing (WA)|6|6|17|1|189|1|1|0|1|0|1|0|3|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Social DPA (WA)|5|5|23|0|0|0|0|0|3|0|0|0|4|66|2|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - SEM Search (WA)|5|5|8|0|0|0|0|0|4|0|0|0|4|0|0|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Social Patrocinado (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - B2B (WA)|1|1|7|0|0|0|0|0|1|1|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|73|Eletroportáteis|Canal - Direto (WA)|1|1|4|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|56|Informática|Canal - SEM PLA (WA)|192|192|311|2|3359|2|1|0|166|11|1|3|155|60|100|164
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|56|Informática|Canal - SEO (WA)|120|120|346|3|4492|6|5|0|90|13|3|6|71|62|18|29
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|56|Informática|::unspecified::|68|68|149|1|26|1|1|0|46|6|1|1|33|50|12|24
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|56|Informática|Canal - Comparador de Preço (WA)|38|38|52|1|1468|2|2|0|33|3|1|0|30|66|20|30
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|56|Informática|Canal - SEM Branding (WA)|6|6|10|0|0|0|0|0|4|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|56|Informática|Canal - Social DPA (WA)|4|4|7|0|0|0|0|0|4|0|0|0|4|50|2|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|56|Informática|Canal - Retargeting (WA)|3|3|4|0|0|0|0|0|2|0|0|0|2|50|1|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|56|Informática|Canal - SEM Search (WA)|2|2|2|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|56|Informática|Canal - Afiliados (WA)|1|1|5|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|56|Informática|Não Identificado|1|1|1|0|0|0|0|0|1|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|102|Beleza e Saúde|Canal - SEM PLA (WA)|17|17|23|1|59|1|1|0|13|1|1|0|15|58|7|12
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|102|Beleza e Saúde|Canal - SEO (WA)|2|2|2|0|0|0|0|0|1|0|0|0|0|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|102|Beleza e Saúde|Canal - Afiliados (WA)|1|1|5|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|102|Beleza e Saúde|Canal - Social Organico (WA)|1|1|3|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|102|Beleza e Saúde|Canal - Social DPA (WA)|1|1|2|0|0|0|0|0|1|0|0|0|1|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|827|Ferramentas|Canal - SEM PLA (WA)|10|10|15|0|0|0|0|0|9|1|0|0|8|55|5|9
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|827|Ferramentas|::unspecified::|4|4|20|0|0|0|0|0|4|0|0|0|2|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|827|Ferramentas|Canal - SEO (WA)|1|1|4|0|0|0|0|0|0|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|827|Ferramentas|Canal - Afiliados (WA)|1|1|2|0|0|0|0|0|0|1|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|827|Ferramentas|Canal - Comparador de Preço (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|983|Bebês|Canal - SEM PLA (WA)|3|3|3|0|0|0|0|0|2|0|0|0|2|50|1|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|983|Bebês|::unspecified::|2|2|3|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|983|Bebês|Canal - Afiliados (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|983|Bebês|Canal - SEO (WA)|1|1|2|0|0|0|0|0|1|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|983|Bebês|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|0|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1886|Perfumaria|Canal - SEM PLA (WA)|3|3|7|0|0|0|0|0|3|0|0|0|3|66|2|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1886|Perfumaria|Canal - Comparador de Preço (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|2|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1886|Perfumaria|Canal - SEO (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1886|Perfumaria|::unspecified::|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2031|Tablets|::unspecified::|4|4|6|0|0|0|0|0|2|0|0|0|2|50|1|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2031|Tablets|Canal - Comparador de Preço (WA)|1|1|2|0|0|0|0|0|1|0|0|0|0|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2031|Tablets|Canal - SEM PLA (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2031|Tablets|Canal - SEM Branding (WA)|1|1|1|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2285|Produtos de Limpeza|Canal - SEM PLA (WA)|2|2|9|1|94|1|1|0|1|1|1|1|0|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2285|Produtos de Limpeza|Canal - SEO (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2285|Produtos de Limpeza|::unspecified::|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2285|Produtos de Limpeza|Canal - Email Marketing (WA)|1|1|1|0|0|0|0|0|0|1|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1732|Cama. Mesa e Banho|Canal - SEM PLA (WA)|1|1|3|0|0|0|0|0|1|0|0|0|0|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1732|Cama. Mesa e Banho|Canal - SEO (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1639|Papelaria|::unspecified::|2|2|2|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1639|Papelaria|Canal - Comparador de Preço (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|448|Calçados|Canal - SEM PLA (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|1734|Moda|Canal - SEO (WA)|3|3|4|0|0|0|0|0|2|0|0|0|2|50|1|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|4|2894|Artigos para Festas|::unspecified::|1|1|3|0|0|0|0|0|0|0|0|1|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||::unspecified::|361|358|1623|0|0|0|0|0|2|0|0|0|281|39|124|315
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - SEO (WA)|203|202|900|0|0|0|0|0|0|0|0|0|144|24|42|175
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - SEM Branding (WA)|104|104|551|0|0|0|0|0|0|0|0|0|56|6|6|88
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - SEM PLA (WA)|54|54|214|0|0|0|0|0|0|0|0|0|28|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - SEM Search (WA)|40|40|94|0|0|0|0|0|0|0|0|0|30|42|15|35
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Email Marketing (WA)|35|35|96|0|0|0|0|0|0|0|0|0|21|39|11|28
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Afiliados (WA)|25|25|77|0|0|0|0|0|0|0|0|0|22|39|9|23
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Comparador de Preço (WA)|9|9|29|0|0|0|0|0|0|0|0|0|4|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|0|371|Utilidades Domésticas|Canal - SEM Search (WA)|3|3|7|0|0|0|0|0|3|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Social Patrocinado (WA)|6|6|14|0|0|0|0|0|0|0|0|0|6|50|3|6
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Social Organico (WA)|6|6|6|0|0|0|0|0|0|0|0|0|5|100|5|5
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Não Identificado|5|5|5|0|0|0|0|0|0|0|0|0|4|80|4|5
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Social DPA (WA)|5|5|4|0|0|0|0|0|0|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Display Top Mid(WA)|3|3|3|0|0|0|0|0|0|0|0|0|3|100|3|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Direto (WA)|2|2|9|0|0|0|0|0|0|0|0|0|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - B2B (WA)|2|2|7|0|0|0|0|0|0|0|0|0|1|50|1|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|::unspecified::||Canal - Retargeting (WA)|2|2|0|0|0|0|0|0|0|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - SEM PLA (WA)|18|18|33|0|0|0|0|0|13|2|0|0|9|50|6|12
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|::unspecified::|15|15|303|0|0|0|0|0|8|1|0|0|8|66|2|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - SEM Branding (WA)|14|14|59|1|1386|1|1|0|10|3|1|1|7|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - SEO (WA)|10|10|16|0|0|0|0|0|10|1|0|0|3|25|1|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - SEM Search (WA)|5|5|9|0|0|0|0|0|5|0|0|0|3|100|2|2
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - Comparador de Preço (WA)|4|4|6|0|0|0|0|0|3|0|0|0|3|0|0|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - Social DPA (WA)|3|3|4|0|0|0|0|0|3|0|0|0|2|33|1|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - Email Marketing (WA)|2|2|5|0|0|0|0|0|2|0|0|0|1|0|0|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - Afiliados (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|13|Eletrodomésticos|Canal - Social Organico (WA)|1|1|1|0|0|0|0|0|0|0|0|1|0|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - SEM PLA (WA)|18|18|39|1|1599|1|1|0|16|4|1|1|14|43|7|16
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|::unspecified::|11|11|43|0|0|0|0|0|9|0|0|0|7|66|2|3
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - SEO (WA)|11|11|20|1|1583|0|1|0|9|0|1|0|4|75|3|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - Comparador de Preço (WA)|4|4|8|0|0|0|0|0|4|1|0|0|4|50|2|4
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - Email Marketing (WA)|2|2|2|0|0|0|0|0|2|0|0|0|2|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - SEM Branding (WA)|2|2|2|0|0|0|0|0|2|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - Afiliados (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - Retargeting (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - Social DPA (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|100|1|1
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|1|TVs e Acessórios|Canal - SEM Search (WA)|1|1|1|0|0|0|0|0|1|0|0|0|1|null|0|0
+1359899432|2018-09-14 11:31:48.0|np-casasbahia|CB - CasasBahia.com.br||2018-09-14|5|977|Brinquedos|Canal - SEM PLA (WA)|5|5|12|0|0|0|0|0|5|1|0|0|4|60|3|5

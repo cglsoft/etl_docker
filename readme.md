@@ -65,6 +65,11 @@ $ cd gf_desafio
 ### Deploy DOCKER Container PYSPARK/JUPYTERNOTEBOOK
 
 Para rodar a solução o primeiro passo será criar executar o container em Docker/PYSPARK/JUPYTERNOTEBOOK
+Acessar o diretório build_docker para e executar o script abaixo para a criação da imagem:
+
+```sh
+$ docker build -t jupyter_cgl:1.0 . 
+```
 
 Container Docker HUB o repositório do [HUB](https://hub.docker.com/).
 
