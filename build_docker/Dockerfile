@@ -42,8 +42,7 @@ ENV MESOS_NATIVE_LIBRARY /usr/local/lib/libmesos.so
 ENV SPARK_OPTS --driver-java-options=-Xms1024M --driver-java-options=-Xmx4096M --driver-java-options=-Dlog4j.logLevel=info
 
 # Python
-
-USER root
+FROM python:3.7
 
 RUN pip install flask flask-restful flask-rest-jsonapi flask-themes flask-user flask-wtf flask-uploads
 

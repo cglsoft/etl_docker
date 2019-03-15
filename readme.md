@@ -1,10 +1,18 @@
-# GEOFUSION  Processo Seletivo
+# GEOFUSION  Desafio Técnico 
 
-##  Engenheiro de Dados
+##  Arquitetura BIGDATA Tecnologias 
 
-###  Desafio Técnico
+ - APACHE SPARK
+ - ETL - Projeto PYSPARK  
+ - ETL - JUPYTER NOTEBOOK
+ - DOCKER 
+ - HIVE
+ - MICROSERVIÇOS REST API
+ 
+ 
+## Engenheiro de Dados 
 
-### FEV/2019 - CGLSOFT - CLAUDIO FEV/2019
+### FEV/2019 - CGLSOFTCLAUDIO FEV/2019
 
 [![N|Solid](arquitetura.png)](https://github.com/cglsoft)
 
@@ -43,17 +51,11 @@ com Flask, onde os parceiros poderão consumir os serviços conforme os planos c
 
 ### Modelagem Star schema para gravacao no Datalake
 
-
-
-
 [![N|Solid](starchema.png)](https://github.com/cglsoft)
 
- 
+ ### Repositório GIT
 
-
-### Repositório GIT
-
-Acessar o diretório de projetos e baixar o repositório do [GIT GEOFUSION DESAFIO](https://github.com/cglsoft/).
+Acessar o diretório de projetos e clonar o repositório do [GIT GEOFUSION DESAFIO](https://github.com/cglsoft/) na pasta gf_desafio.
 
 Passos para instalação:
 
@@ -64,19 +66,32 @@ $ cd gf_desafio
 
 ### Deploy DOCKER Container PYSPARK/JUPYTERNOTEBOOK
 
-Para rodar a solução o primeiro passo será criar executar o container em Docker/PYSPARK/JUPYTERNOTEBOOK
+Para rodar a solução o primeiro passo será fazer build do container Docker localizado na pasta gf_desafio/build_docker.
+
 Acessar o diretório build_docker para e executar o script abaixo para a criação da imagem:
 
 ```sh
-$ docker build -t jupyter_cgl:1.0 . 
+$ cd build_docker
+$ docker build -t jupyter_geofusion:v1 .
 ```
 
-Container Docker HUB o repositório do [HUB](https://hub.docker.com/).
+#####Referências: Container Docker HUB o repositório do [HUB](https://hub.docker.com/).
 
-Estando no diretório gf_desafio executar os comandos abaixo:
+Após a criação do container, executar o comando abaixo para identificar o IMAGE_ID que será a referência para a execução do container.
 
 ```sh
-$ docker run -it -p 8888:8888 -v $PWD:/home/jovyan/work --name spark jupyter/pyspark-notebook 
+$ docker images
+```
+
+
+De posse do IMAGE_ID da imagem criada, executar os comandos abaixo subir o container e validação da solução:
+
+####Atenção: Voltar para o diretório do projeto!
+
+
+```sh
+$ cd ..
+$ docker run -it -p 8888:8888 -v $PWD:/home/jovyan/work --name spark 2bd4d02727b8 
 ```
 
 Apos o deploy do serviço será fornecido o TOKEN que deverá ser copiado conforme tela abaixo:
@@ -90,24 +105,44 @@ No navegador de sua preferência, acessar o endereço do Jupyter Notebook: [Jupy
 127.0.0.1:8888
 ```
 
-###Importante acessar a pasta work/gf_desafio
+# Projeto ETL - SPARK-SUBMIT  
 
-Nesta pasta temos o arquivo com o código ETL para carga das informações:
+O projeto disponibilizado faz toda a funcionalidade do JUPYTER NOTEBOOK conforme demonstrado acima, agora com o plus de execução em cluster.
+
+Na pasta [] é possível explorar todo o código ETL para carga das informações:
 
 Veja [ETL Carga Datalake](https://github.com/cglsoft/gf_desafio/blob/master/GF%20Case.ipynb)
 
 
+# Projeto MICROSERVICES - REST API.
+
+Para consumir o serviço desta API acessar o diretório app_rest e seguir os procedimentos abaixo:
+
+
+```sh
+cd app_rest
+$ docker build -t microservico_rest:latest .
+```
+
+Executando o container da imagem criada:
+
+
+```sh
+$ docker build -t microservico_rest:latest .
+```
+
+
+Com o serviço em execução acessar o browser e abrir o endereço abaixo:
+
+ou utilizar o curl para testar:
+
+
+
+```sh
+$ curl http://127.0.0.1:5000/concorrentes/1428478957431771
+```
+
+##( Gostei deste desafio!)
+
+
 FIM
-
-
-
-
-
-
-
-
-
-
-
-
-
