@@ -111,7 +111,7 @@ O projeto disponibilizado faz toda a funcionalidade do JUPYTER NOTEBOOK conforme
 
 Na pasta [] é possível explorar todo o código ETL para carga das informações:
 
-Veja [ETL Carga Datalake](https://github.com/cglsoft/gf_desafio/blob/master/GF%20Case.ipynb)
+Veja [ETL Carga Datalake](https://github.com/cglsoft/gf_desafio/tree/master/etl_pyspark)
 
 
 # Projeto MICROSERVICES - REST API.
@@ -141,6 +141,13 @@ ou utilizar o curl para testar:
 ```sh
 $ curl http://127.0.0.1:5000/concorrentes/1428478957431771
 ```
+
+
+# Analise de Dados
+
+As análises estão disponíveis no JUPYTER NOTEBOOK:
+
+Veja [Análises de dados](https://github.com/cglsoft/gf_desafio/blob/master/GF Case Analise de Dados.ipynb)
 
 ##( Gostei deste desafio!)
 
