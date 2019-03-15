@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cf588875-6f97-4ea2-bad9-7648295a93a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GF Case Analise de Dados.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GF Case Analise de Dados.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GF Case.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GF Case.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/app_rest/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/hive_final/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/hive_final/.part-00000-4c54aad1-dd30-4326-9f63-fd5d19df122e-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/hive_final/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/hive_final/part-00000-4c54aad1-dd30-4326-9f63-fd5d19df122e-c000.csv" beforeDir="false" afterPath="$PROJECT_DIR$/app_rest/final_concorrentes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app_rest/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_rest/server_rest.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_rest/server_rest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/geofusion$server_rest.coverage" NAME="server_rest Coverage Results" MODIFIED="1552615864728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app_rest" />
+    <SUITE FILE_PATH="coverage/geofusion$server_rest.coverage" NAME="server_rest Coverage Results" MODIFIED="1552627109280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app_rest" />
     <SUITE FILE_PATH="coverage/geofusion$main.coverage" NAME="main Coverage Results" MODIFIED="1552527922610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
   </component>
   <component name="ExportToHTMLSettings">
@@ -20,20 +29,7 @@
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/.." />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1092">
-                <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,18 +39,18 @@
       <list>
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/build_docker/Dockerfile" />
-        <option value="$PROJECT_DIR$/app_rest/requirements.txt" />
-        <option value="$PROJECT_DIR$/app_rest/Dockerfile" />
-        <option value="$PROJECT_DIR$/app_rest/server_rest.py" />
         <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/app_rest/requirements.txt" />
+        <option value="$PROJECT_DIR$/app_rest/server_rest.py" />
+        <option value="$PROJECT_DIR$/app_rest/Dockerfile" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="27" />
-    <option name="width" value="585" />
-    <option name="height" value="695" />
+    <option name="y" value="168" />
+    <option name="width" value="575" />
+    <option name="height" value="702" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -77,12 +73,6 @@
             <path>
               <item name="geofusion" type="b2602c69:ProjectViewProjectNode" />
               <item name="geofusion" type="462c0819:PsiDirectoryNode" />
-              <item name="app_rest" type="462c0819:PsiDirectoryNode" />
-              <item name="hive_final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geofusion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geofusion" type="462c0819:PsiDirectoryNode" />
               <item name="etl_pyspark" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -100,6 +90,10 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app_rest" />
+      <recent name="$PROJECT_DIR$/app_rest/hive_final" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app_rest" />
     </key>
@@ -164,23 +158,22 @@
       <workItem from="1552540665148" duration="15000" />
       <workItem from="1552608868998" duration="3376000" />
       <workItem from="1552612260459" duration="5452000" />
-      <workItem from="1552618733095" duration="323000" />
+      <workItem from="1552618733095" duration="8868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17466000" />
+    <option name="totallyTimeSpent" value="26011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="2493" height="1413" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12014712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31426236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32889584" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32811275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,13 +196,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
-    <entry file="file://$PROJECT_DIR$/GF Case.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt" />
     <entry file="file://$PROJECT_DIR$/Dockerfile" />
     <entry file="file://$PROJECT_DIR$/app/main.py" />
@@ -220,32 +206,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app_rest/final_concorrentes.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GF Case Analise de Dados.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GF Case.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app_rest/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app_rest/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="76">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app_rest/server_rest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1092">
-            <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
+          <first_editor relative-caret-position="317">
+            <caret line="129" column="5" lean-forward="true" selection-start-line="129" selection-start-column="5" selection-end-line="129" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>

@@ -4,11 +4,10 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/python3
 
-from pyspark.sql import SparkSession
+import pandas as pd
 
 from flask import Flask
 from flask_restful import Resource, Api
-import json
 
 import os
 from flask import send_from_directory
@@ -23,25 +22,15 @@ def favicon():
 
 
 class Concorrentes(Resource):
-    _spark = None
-
-    def __init__(self):
-        # Iniciar spark session
-        self._spark = SparkSession.builder \
-            .master("local") \
-            .appName("GeoFusion CASE") \
-            .getOrCreate()
-
     def get(self, concorrente_id):
         result = {}
 
         try:
-            df_concorrente = self._spark.read.option("encoding", "utf-8").csv('hive_final', header=True,
-                                                                              sep='|')
+            df_concorrente = pd.read_csv("final_concorrentes.csv", delimiter="|", encoding='utf8')
 
-            df_concorrente = df_concorrente.where('codigo_concorrente ==' + concorrente_id)
+            df_concorrente = df_concorrente.query('codigo_concorrente ==' + concorrente_id )
 
-            result = df_concorrente.toJSON().map(lambda j: json.loads(j)).collect()
+            result = df_concorrente.to_json()
         except:
             result = {'Error'}
         finally:

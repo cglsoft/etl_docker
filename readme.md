@@ -128,7 +128,7 @@ Executando o container da imagem criada:
 
 
 ```sh
-$ docker build -t microservico_rest:latest .
+$ docker run -d -p 5000:5000 microservico_rest:latest
 ```
 
 
@@ -147,7 +147,7 @@ $ curl http://127.0.0.1:5000/concorrentes/1428478957431771
 
 As análises estão disponíveis no JUPYTER NOTEBOOK:
 
-Veja [Análises de dados](https://github.com/cglsoft/gf_desafio/blob/master/GF Case Analise de Dados.ipynb)
+Veja [Análises de dados](https://github.com/cglsoft/gf_desafio/blob/master/GF%20Case%20Analise%20de%20Dados.ipynb)
 
 ##( Gostei deste desafio!)
 
