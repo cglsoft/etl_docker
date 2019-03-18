@@ -22,6 +22,30 @@ RUN cd /tmp && \
         rm spark-${APACHE_SPARK_VERSION}-bin-hadoop${HADOOP_VERSION}.tgz
 RUN cd /usr/local && ln -s spark-${APACHE_SPARK_VERSION}-bin-hadoop${HADOOP_VERSION} spark
 
+
+
+USER $NB_UID
+
+# Install pyarrow
+RUN conda install --quiet -y 'pyarrow' && \
+    conda clean -tipsy && \
+    fix-permissions $CONDA_DIR && \
+    fix-permissions /home/$NB_USER
+
+# Install pyarrow
+RUN conda install --quiet -c conda-forge 'plotly' && \
+    conda clean -tipsy && \
+    fix-permissions $CONDA_DIR && \
+    fix-permissions /home/$NB_USER
+
+
+# Spark and Mesos config
+ENV SPARK_HOME /usr/local/spark
+ENV PYTHONPATH $SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.7-src.zip
+ENV MESOS_NATIVE_LIBRARY /usr/local/lib/libmesos.so
+ENV SPARK_OPTS --driver-java-options=-Xms1024M --driver-java-options=-Xmx4096M --driver-java-options=-Dlog4j.logLevel=info
+
+
 # Mesos dependencies
 # Install from the Xenial Mesosphere repository since there does not (yet)
 # exist a Bionic repository and the dependencies seem to be compatible for now.
@@ -34,23 +58,3 @@ RUN apt-get -y update && \
     apt-get --no-install-recommends -y install mesos=1.2\* && \
     apt-get purge --auto-remove -y gnupg && \
     rm -rf /var/lib/apt/lists/*
-
-# Spark and Mesos config
-ENV SPARK_HOME /usr/local/spark
-ENV PYTHONPATH $SPARK_HOME/python:$SPARK_HOME/python/lib/py4j-0.10.7-src.zip
-ENV MESOS_NATIVE_LIBRARY /usr/local/lib/libmesos.so
-ENV SPARK_OPTS --driver-java-options=-Xms1024M --driver-java-options=-Xmx4096M --driver-java-options=-Dlog4j.logLevel=info
-
-# Python
-FROM python:3.7
-
-RUN pip install flask flask-restful flask-rest-jsonapi flask-themes flask-user flask-wtf flask-uploads
-
-
-USER $NB_UID
-
-# Install pyarrow
-RUN conda install --quiet -y 'pyarrow' && \
-    conda clean -tipsy && \
-    fix-permissions $CONDA_DIR && \
-    fix-permissions /home/$NB_USER

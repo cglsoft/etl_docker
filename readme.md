@@ -145,11 +145,9 @@ $ curl http://127.0.0.1:5000/concorrentes/1428478957431771
 
 # Analise de Dados
 
-As análises estão disponíveis no JUPYTER NOTEBOOK:
+As análises estão disponíveis na planilha do EXCEL:
 
-Veja [Análises de dados](https://github.com/cglsoft/gf_desafio/blob/master/GF%20Case%20Analise%20de%20Dados.ipynb)
-
-##( Gostei deste desafio!)
+Veja [Análises de dados](https://github.com/cglsoft/gf_desafio/blob/master/AnalisePotencial.xlsx)
 
 
 FIM
