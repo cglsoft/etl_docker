@@ -1,4 +1,4 @@
-# GEOFUSION  Desafio Técnico 
+# BIGDATA - Case - Engenheiro de Dados 
 
 ##  Arquitetura BIGDATA Tecnologias 
 
@@ -17,7 +17,7 @@
 [![N|Solid](arquitetura.png)](https://github.com/cglsoft)
 
 
-O objetivo da equipe GeoFusion é apresentar a solução de arquitetura de serviços escaláveis e otimizados em 
+O objetivo da case  é apresentar a solução de arquitetura de serviços escaláveis e otimizados em 
 BigData para os clientes do setor de alimentação (restaurantes, pizzarias, bares, etc.).
 
 Esta arquitetura poderá estar hospedadas nos serviços de nuvens dos fornecedores:
@@ -55,7 +55,7 @@ com Flask, onde os parceiros poderão consumir os serviços conforme os planos c
 
  ### Repositório GIT
 
-Acessar o diretório de projetos e clonar o repositório do [GIT GEOFUSION DESAFIO](https://github.com/cglsoft/) na pasta gf_desafio.
+Acessar o diretório de projetos e clonar o repositório do [GIT](https://github.com/cglsoft/) na pasta gf_desafio.
 
 Passos para instalação:
 
@@ -72,7 +72,7 @@ Acessar o diretório build_docker para e executar o script abaixo para a criaç�
 
 ```sh
 $ cd build_docker
-$ docker build -t jupyter_geofusion:v1 .
+$ docker build -t jupyter_bigdata:v1 .
 ```
 
 #####Referências: Container Docker HUB o repositório do [HUB](https://hub.docker.com/).
